@@ -9,12 +9,9 @@ This repository contains the codes that are explained in the HTML, CSS and JS Cr
 <a href="https://github.com/amitniitmca/crash-course-html-css-js/tree/master/HTML_Crash_Course/T05_Quotation_and_Citation"> 5. Quotation and Citation </a> <br> 
 <a href="https://github.com/amitniitmca/crash-course-html-css-js/tree/master/HTML_Crash_Course/T06_Links_and_Bookmarks"> 6. Links and Booksmarks </a> <br> 
 <a href="https://github.com/amitniitmca/crash-course-html-css-js/tree/master/HTML_Crash_Course/T07_Images_and_Pictures"> 7. Images and Pictures </a> <br> 
-<a href="https://github.com/amitniitmca/crash-course-html-css-js/tree/master/HTML_Crash_Course/T08_Title_and_Favicon"> 8. Title and Favicons </a> 
-<br> 
-<a href=""https://github.com/amitniitmca/crash-course-html-css-js/tree/master/HTML_Crash_Course/T09_HTML_Tables"> 9. HTML Tables </a> 
-<br> 
-<a href=""https://github.com/amitniitmca/crash-course-html-css-js/tree/master/HTML_Crash_Course/T09_HTML_Tables"> 10. HTML Lists </a> 
-<br> 
+<a href="https://github.com/amitniitmca/crash-course-html-css-js/tree/master/HTML_Crash_Course/T08_Title_and_Favicon"> 8. Title and Favicons </a> <br> 
+<a href=""https://github.com/amitniitmca/crash-course-html-css-js/tree/master/HTML_Crash_Course/T09_HTML_Tables"> 9. HTML Tables </a> <br> 
+<a href=""https://github.com/amitniitmca/crash-course-html-css-js/tree/master/HTML_Crash_Course/T09_HTML_Tables"> 10. HTML Lists </a> <br> 
 
 ## CSS
 
