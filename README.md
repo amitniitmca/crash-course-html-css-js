@@ -15,7 +15,8 @@ This repository contains the codes that are explained in the HTML, CSS and JS Cr
 <a href="https://github.com/amitniitmca/crash-course-html-css-js/tree/master/HTML_Crash_Course/T11_Id_and_Classes"> 11. Id and Classes </a> <br> 
 <a href="https://github.com/amitniitmca/crash-course-html-css-js/tree/master/HTML_Crash_Course/T12_HTML_Form_Elements"> 12. HTML Form Elements </a> <br>
 <a href="https://github.com/amitniitmca/crash-course-html-css-js/tree/master/HTML_Crash_Course/T13_HTML_Input_Types"> 13. HTML Input Types </a> <br>
-<a href="https://github.com/amitniitmca/crash-course-html-css-js/tree/master/HTML_Crash_Course/T14_HTML_Input_Attributes"> 14. HTML Input Attributes </a> <br>  
+<a href="https://github.com/amitniitmca/crash-course-html-css-js/tree/master/HTML_Crash_Course/T14_HTML_Input_Attributes"> 14. HTML Input Attributes </a> <br>
+<a href="https://github.com/amitniitmca/crash-course-html-css-js/tree/master/HTML_Crash_Course/T15_Block_And_Inline_Elements"> 15. Block and Inline Elements </a> <br>   
 ## CSS
 
 ## JS 
