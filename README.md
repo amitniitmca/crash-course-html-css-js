@@ -18,5 +18,6 @@ This repository contains the codes that are explained in the HTML, CSS and JS Cr
 <a href="https://github.com/amitniitmca/crash-course-html-css-js/tree/master/HTML_Crash_Course/T14_HTML_Input_Attributes"> 14. HTML Input Attributes </a> <br>
 <a href="https://github.com/amitniitmca/crash-course-html-css-js/tree/master/HTML_Crash_Course/T15_Block_And_Inline_Elements"> 15. Block and Inline Elements </a> <br>   
 ## CSS
-
+<a href="https://github.com/amitniitmca/crash-course-html-css-js/tree/master/CSS_Crash_Course/T01_Introduction_to_CSS"> 1. Introduction to CSS </a> <br>
+<a href="https://github.com/amitniitmca/crash-course-html-css-js/tree/master/CSS_Crash_Course/T02_Using_CSS"> 2. Using CSS </a> <br> 
 ## JS 
